@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:wght@700&display=swap" rel="stylesheet">
     <title>LOGIN</title>
+    <link rel="stylesheet" href="LOGIN.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -23,27 +24,33 @@
           <a class="nav-link active" aria-current="page" href="LOGIN.html">REGISTER/LOG IN</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">ABOUT</a>
+          <a class="nav-link" href="aboutus.html">ABOUT US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contactus.html">CONTACT US</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="result.html">PREDICT THE RESULTS</a>
         </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button class="btn btn-success" type="submit">Search</button>
       </form>
     </div>
   </div>
 </nav>
-<div class="container">
+<div class="container" id="one">
 <div class="jumbotron">
   <h1 class="display-4">Already a User</h1>
   <p class="lead">
     <div class="mb-3">
       <label for="exampleFormControlInput1" class="form-label">Email address</label>
-      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+      <p><input type="email" id="exampleFormControlInput1" placeholder="name@example.com" ></p>
     </div>
     <div class="mb-3">
       <label for="exampleFormControlInput2" class="form-label">Password</label>
-      <input type="password" class="form-control" id="exampleFormControlInput2" value = "">
+    <p>  <input type="password"  id="exampleFormControlInput2" value = ""></p>
     </div>
     <div class="form-group form-check">
       <input type="checkbox" class="form-check-input" id="exampleCheck1">
@@ -54,20 +61,19 @@
 </div>
 </p>
 </div>
-</div>
 
-<div class="container">
+<div class="container" id="two">
 <div class="jumbotron">
  <p><h5 class="display-4">New User</h5></p>
   <p class="lead">
     <div class="mb-3">
       <label for="exampleFormControlInput1" class="form-label">Email address</label>
-      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
+      <p><input type="email"  id="exampleFormControlInput1" placeholder=""></p>
       <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <div class="mb-3">
       <label for="exampleFormControlInput2" class="form-label">Password</label>
-      <input type="password" class="form-control" id="exampleFormControlInput2" value = "">
+    <p>  <input type="password" id="exampleFormControlInput2" value = ""></p>
     </div>
   <p> Mobile No.</p>
   <p><input type="text" name="" value="">
@@ -106,6 +112,15 @@
 </p>
 </div>
 </div>
+<style>
+body {
+  background-image: url('https://media.istockphoto.com/photos/close-up-image-of-a-stock-market-graph-picture-id1213574690?k=6&m=1213574690&s=612x612&w=0&h=442cKQlBYJOi4pxg7ORYJve5J-EENY9BHhbeSBh3Un0=' );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+</style>
 
 </body>
 </html>
