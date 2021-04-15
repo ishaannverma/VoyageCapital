@@ -4,6 +4,11 @@
   padding: 200px;
 }
 
-body {
+.container{
 font-family: 'Gentium Book Basic', serif;
+
+}
+
+.container{
+  font-size: 250%;
 }
