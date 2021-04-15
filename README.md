@@ -14,3 +14,8 @@ Languages Used :
 3. Bootstrap
 4. Python
 5. Flask
+6. Yahoo Finance
+7. Alpha Vantage
+8. SQL
+9. Keras
+10. Tweepy
