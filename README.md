@@ -9,8 +9,8 @@ Through our project Voyage Capital we aim to provide investors with accurate dat
 
 Languages Used :
 
-1. Html
-2. Css
+1. HTML
+2. CSS
 3. Bootstrap
 4. Python
 5. Flask
