@@ -1,7 +1,15 @@
-.container{
-  padding: 400;
+#one{
+  padding left: 250px;
+  padding-top: 100px;
   margin-top: auto;
+
+font-weight: bold;
 }
-body{
-  font-family: 'Gentium Book Basic', serif;
+body {
+  color: white;
+
+}
+
+#two{
+font-weight: bold;
 }
