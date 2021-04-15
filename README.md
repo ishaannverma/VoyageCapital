@@ -1,7 +1,7 @@
-19103050 Ishaan Verma
-19103071 Trisha Bassan
-19103105 Ananya Gupta
-19103126 Navya Aggarwal
+1. 19103050 Ishaan Verma
+2. 19103071 Trisha Bassan
+3. 19103105 Ananya Gupta
+4. 19103126 Navya Aggarwal
 
 Voyage Capital 
 
