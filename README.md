@@ -5,5 +5,11 @@
 
 Voyage Capital 
 
-Through our project Voyage Capital we aim to provide investors with accurate data regarding stocks and stock market that will benefit them and help them make well informed decisions. The user is supposed to sign up through ID and password or login through existing Gmail. The site will provide information related to stocks and also offer predictions regarding stocks i.e. what is the recent trend and fluctuations in stocks. It plans to do so by analysing stock market parameters such as market Price to Book value ratio. It also provides with a news feature wherein recent news related to stocks will be given. We plan on utilizing tools such as Database Management System, Structured Query Language, Front and Back end development and machine learning. In today’s volatile market which offers myriads of seemingly lucrative “Money Minters”, choose Voyage Capital to help you in making informed and profitable investments.
+Through our project Voyage Capital we aim to provide investors with accurate data regarding stocks and stock market that will benefit them and help them make well informed decisions. The user is supposed to sign up through ID and password or login through existing Gmail. The site will provide information related to stocks and also offer predictions regarding stocks i.e. what is the recent trend and fluctuations in stocks. It plans to do so by analysing stock market parameters such as market Price to Book value ratio. It also provides with a news feature wherein recent news related to stocks will be given. In today’s volatile market which offers myriads of seemingly lucrative “Money Minters”, choose Voyage Capital to help you in making informed and profitable investments.
 
+Languages Used :
+
+Html
+Css
+Bootstrap
+Python
