@@ -10,9 +10,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:wght@700&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
     <script type="text/javascript">
     $( document ).ready(function() {
     getSuccessOutput();
+    $(".selUser").select2();
 });
       // handles the click event, sends the query
       function getSuccessOutput() {
@@ -88,8 +91,8 @@
 <div class="jumbotron">
   <label for="cars">Choose Share</label>
 
-  <select name="s" id="cars">
-    <option value="">Please select</option>
+  <select name="s" id="cars" class="selUser" width="300px">
+    <option value="">Choose Share</option>
   </select>
 </div>
 </div>
@@ -101,6 +104,9 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 
+}
+span.select2-dropdown.select2-dropdown--below {
+    width: 300px !important;
 }
 </style>
   </body>
