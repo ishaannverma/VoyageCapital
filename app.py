@@ -56,10 +56,21 @@ def index():
 @app.route('/aboutus')
 def aboutus():
    return render_template('aboutus.html')
-
-@app.route('/contactus')
+  
+@app.route('/contactus',methods = ["GET","POST"])
 def contactus():
-   return render_template('contactus.html')
+    if request.method=='POST':
+        print('post')
+        first_name = request.form.get("fname")
+        email = request.form.get('email')
+        message = request.form.get('message')
+
+        cur = mysql.connection.cursor()
+        query = "INSERT INTO messages VALUES('{fname}','{mail}','{msg}')".format(fname=first_name,mail=email,msg=message)
+        cur.execute(query)
+        mysql.connection.commit()
+    return render_template('contactus.html')
+
 
 @app.route('/result')
 def result():
