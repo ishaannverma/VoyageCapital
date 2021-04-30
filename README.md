@@ -19,3 +19,6 @@ Languages Used :
 8. SQL
 9. Keras
 10. Tweepy
+
+Project Write-Up:
+https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md
