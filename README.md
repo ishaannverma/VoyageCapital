@@ -21,19 +21,24 @@ Through our project Voyage Capital we aim to provide investors with accurate dat
 10. Tweepy
 
 **Project Write-Up:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md  
+https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md    
+
   
 **Level 0 DFD:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200  
+https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200    
+
   
 **Level 1 DFD:**
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201
+https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201    
+
   
 **Level 2 DFD:**
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202
+https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202  
+
   
 **Decision Tree:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20tree 
+https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20tree   
+
   
 **Data Dictionary:**  
 https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary
