@@ -1,0 +1,14 @@
+body {
+  color: white;
+
+}
+
+#two{
+font-weight: bold;
+}
+
+ul.dropdown-menu.dropdown-menu-dark.show li a {
+    text-decoration: none;
+    color: white;
+    margin: 0 8%;
+}

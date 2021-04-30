@@ -1,0 +1,205 @@
+[
+ {
+   "Ticker": "OEDV",
+   "Name": "Osage Exploration and Development, Inc.",
+   "Exchange": "PNK",
+   "Category Name": "",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AAPL",
+   "Name": "Apple Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Electronic Equipment",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "BAC",
+   "Name": "Bank of America Corporation",
+   "Exchange": "NYQ",
+   "Category Name": "Money Center Banks",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AMZN",
+   "Name": "Amazon.com, Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Catalog & Mail Order Houses",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "T",
+   "Name": "AT&T Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Telecom Services - Domestic",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "GOOG",
+   "Name": "Alphabet Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Internet Information Providers",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "MO",
+   "Name": "Altria Group, Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Cigarettes",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "DAL",
+   "Name": "Delta Air Lines, Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Major Airlines",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AA",
+   "Name": "Alcoa Corporation",
+   "Exchange": "NYQ",
+   "Category Name": "Aluminum",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AXP",
+   "Name": "American Express Company",
+   "Exchange": "NYQ",
+   "Category Name": "Credit Services",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "DD",
+   "Name": "E. I. du Pont de Nemours and Company",
+   "Exchange": "NYQ",
+   "Category Name": "Agricultural Chemicals",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "BABA",
+   "Name": "Alibaba Group Holding Limited",
+   "Exchange": "NYQ",
+   "Category Name": "Specialty Retail, Other",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ABT",
+   "Name": "Abbott Laboratories",
+   "Exchange": "NYQ",
+   "Category Name": "Medical Appliances & Equipment",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "UA",
+   "Name": "Under Armour, Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Textile - Apparel Clothing",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AMAT",
+   "Name": "Applied Materials, Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Semiconductor Equipment & Materials",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AMGN",
+   "Name": "Amgen Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Biotechnology",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AAL",
+   "Name": "American Airlines Group Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Major Airlines",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AIG",
+   "Name": "American International Group, Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Property & Casualty Insurance",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ALL",
+   "Name": "The Allstate Corporation",
+   "Exchange": "NYQ",
+   "Category Name": "Property & Casualty Insurance",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ADBE",
+   "Name": "Adobe Systems Incorporated",
+   "Exchange": "NMS",
+   "Category Name": "Application Software",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "GOOGL",
+   "Name": "Alphabet Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Internet Information Providers",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ACN",
+   "Name": "Accenture plc",
+   "Exchange": "NYQ",
+   "Category Name": "Information Technology Services",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ABBV",
+   "Name": "AbbVie Inc.",
+   "Exchange": "NYQ",
+   "Category Name": "Drug Manufacturers - Major",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "MT",
+   "Name": "ArcelorMittal",
+   "Exchange": "NYQ",
+   "Category Name": "Steel & Iron",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "LLY",
+   "Name": "Eli Lilly and Company",
+   "Exchange": "NYQ",
+   "Category Name": "Drug Manufacturers - Major",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "AGN",
+   "Name": "Allergan plc",
+   "Exchange": "NYQ",
+   "Category Name": "Drugs - Generic",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "APA",
+   "Name": "Apache Corporation",
+   "Exchange": "NYQ",
+   "Category Name": "Independent Oil & Gas",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "ADP",
+   "Name": "Automatic Data Processing, Inc.",
+   "Exchange": "NMS",
+   "Category Name": "Business Software & Services",
+   "Country": "USA"
+ },
+ {
+   "Ticker": "APC",
+   "Name": "Anadarko Petroleum Corporation",
+   "Exchange": "NYQ",
+   "Category Name": "Independent Oil & Gas",
+   "Country": "USA"
+ }
+  ]
