@@ -21,4 +21,16 @@ Languages Used :
 10. Tweepy
 
 Project Write-Up:  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md
+https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md  
+  
+Level 0 DFD:  
+https://github.com/ishaannverma/VoyageCapital/blob/main/Zero%20Level%20DFD%20-%20Voyage%20Capital.pdf  
+  
+Level 2 DFD:
+https://github.com/ishaannverma/VoyageCapital/blob/main/Data%20Flow%20Diagram%20Level%202.jpeg  
+  
+Decision Table:  
+https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital%20Decision%20Tables.pdf  
+  
+Data Dictionary:
+https://github.com/ishaannverma/VoyageCapital/blob/main/Data%20Dictionary%20-%20Voyage%20Capital
