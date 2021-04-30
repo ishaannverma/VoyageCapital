@@ -29,12 +29,10 @@ https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20
 
   
 **Level 1 DFD:**  
-
 https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201    
 
   
 **Level 2 DFD:**  
-
 https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202  
 
   
