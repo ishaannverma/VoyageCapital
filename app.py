@@ -75,6 +75,24 @@ def contactus():
 @app.route('/result')
 def result():
    return render_template('result.html')
+  
+@app.route('/currency_convertor',methods = ["GET","POST"])
+def currency_convertor():
+    answer=0
+    if request.method == 'POST':
+        # base_currency = request.form.get('base_currency')
+        target_currency = request.form.get('target_currency')
+        amount = float(request.form.get('amount'))
+
+        cur = mysql.connection.cursor()
+        query = "SELECT rate FROM exchange_rates WHERE currency='{target}'".format(target= target_currency)
+        cur.execute(query)
+        conversion_rate = float(cur.fetchone()['rate'])
+        print(cur.fetchone())
+        answer = amount*conversion_rate
+    else:
+        answer = 0
+    return render_template('currencyconvert.html',converted=answer)
 
 
 @app.route('/login', methods =['GET', 'POST'])
