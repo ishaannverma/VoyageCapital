@@ -24,7 +24,7 @@ Through our project Voyage Capital we aim to provide investors with accurate dat
 https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md  
   
 **Level 0 DFD:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Zero%20Level%20DFD%20-%20Voyage%20Capital.pdf  
+https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200  
   
 **Level 1 DFD:**
 https://github.com/ishaannverma/VoyageCapital/blob/main/Level%201%20Data%20Flow%20Diagram.jpeg  
