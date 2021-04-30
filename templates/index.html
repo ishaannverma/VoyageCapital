@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:wght@700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="indexx.css">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
     <title>INDEX</title>
   </head>
   <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="indexx.html">VOYAGE CAPITAL</a>
+    <a class="navbar-brand" href="{{ url_for('index') }}">VOYAGE CAPITAL</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -28,18 +28,18 @@
           REGISTER/LOG IN
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a class="dropdown-item-link" href="LOGIN.html">ALREADY A USER</a></li>
-            <li><a class="dropdown-item-link" href="LOGIN2.html">NEW USER</a></li>
-            <li><a class="dropdown-item-link" href="indexx.html">HOME PAGE</a></li>
+            <li><a class="dropdown-item-link" href="{{ url_for( 'login' ) }}">ALREADY A USER</a></li>
+            <li><a class="dropdown-item-link" href="{{ url_for( 'register')}}">NEW USER</a></li>
+            <li><a class="dropdown-item-link" href="{{ url_for('index') }}">HOME PAGE</a></li>
           </ul>
         </li>
       </ul>
     </div>
         <li class="nav-item">
-          <a class="nav-link" href="aboutus.html">ABOUT US</a>
+          <a class="nav-link" href="{{ url_for('aboutus') }}">ABOUT US</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contactus.html">CONTACT US</a>
+          <a class="nav-link" href="{{ url_for('contactus') }}">CONTACT US</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="result.html">PREDICT THE RESULTS</a>
@@ -61,7 +61,7 @@
 </div>
 <style>
 body {
-  background-image: url('https://media.istockphoto.com/photos/close-up-image-of-a-stock-market-graph-picture-id1213574690?k=6&m=1213574690&s=612x612&w=0&h=442cKQlBYJOi4pxg7ORYJve5J-EENY9BHhbeSBh3Un0=' );
+  background-image: url('https://blog.galvanize.com/wp-content/uploads/2020/01/Can-data-science-predict-the-stock-market-.jpg' );
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -71,4 +71,3 @@ body {
 
   </body>
 </html>
-
