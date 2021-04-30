@@ -33,6 +33,13 @@
     text-align: center;
     font-family: Open Sans;
   }
+
+  #eur{
+      align-self: center;
+      size:65px;
+      text-shadow: -2px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+      color: white;
+  }
   
   #wrapper {
     width: 600px;
