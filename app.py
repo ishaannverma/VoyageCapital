@@ -36,11 +36,17 @@ app.config['MYSQL_DB'] = 'projectlogin'
   
 mysql = MySQL(app)
 
+import warnings
+warnings.filterwarnings("ignore")
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
 @app.after_request
 def add_header(response):
     response.headers['Pragma'] = 'no-cache'
     response.headers['Cache-Control'] = 'no-cache, no-store, must-revalidate'
     response.headers['Expires'] = '0'
+    response.cache_control.max_age = 0
     return response
  
 @app.route('/')
@@ -86,7 +92,7 @@ def login():
                 df.to_csv(''+quote+'.csv')
                 if(df.empty):
                     ts = TimeSeries(key='N6A6QT6IBFJOPJ70',output_format='pandas')
-                    data, meta_data = ts.get_daily_adjusted(symbol='NSE:'+quote, outputsize='full')
+                    data, meta_data = ts.get_daily_adjusted(symbol='BSE:'+quote, outputsize='full')
             #Format df
             #Last 2 yrs rows => 502, in ascending order => ::-1
                     data=data.head(503).iloc[::-1]
@@ -483,6 +489,9 @@ def login():
                 df2=pd.DataFrame(code_list,columns=['Code'])
                 df2 = pd.concat([df2, df], axis=1)
                 df=df2
+                
+                quote_ratios = yf.Ticker(quote).info
+                #print(quote_ratios)
 
 
                 arima_pred, error_arima=ARIMA_ALGO(df)
@@ -500,7 +509,10 @@ def login():
                                     lr_pred=round(lr_pred,2),open_s=today_stock['Open'].to_string(index=False),
                                     close_s=today_stock['Close'].to_string(index=False),adj_close=today_stock['Adj Close'].to_string(index=False),
                                     tw_list=tw_list,tw_pol=tw_pol,idea=idea,decision=decision,high_s=today_stock['High'].to_string(index=False),
-                                    low_s=today_stock['Low'].to_string(index=False),vol=today_stock['Volume'].to_string(index=False),
+                                    low_s=today_stock['Low'].to_string(index=False),vol=today_stock['Volume'].to_string(index=False), curr=str(quote_ratios['currency']),
+                                    mc=str(quote_ratios['marketCap']),mrq=str(quote_ratios['mostRecentQuarter']),
+                                    etr=str(quote_ratios['enterpriseToRevenue']),
+                                    ss=str(quote_ratios['sharesShort']),pr=str(quote_ratios['profitMargins']),
                                     forecast_set=forecast_set,error_lr=round(error_lr,2),error_lstm=round(error_lstm,2),error_arima=round(error_arima,2))
 
         else:
