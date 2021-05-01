@@ -53,8 +53,8 @@
 <a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
 ## Developers  
-  
-1. 19103050 Ishaan Verma
-2. 19103071 Trisha Bassan
-3. 19103105 Ananya Gupta
-4. 19103126 Navya Aggarwal
+
+1. 19103071 Trisha Bassan
+2. 19103105 Ananya Gupta
+3. 19103126 Navya Aggarwal
+4. 19103050 Ishaan Verma
