@@ -24,7 +24,7 @@
 
 ![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(3).gif)
 
-![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(1).gif)
+![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(4).gif)
 
 
 ## Key Features
