@@ -27,7 +27,7 @@
 
 ## Our Inspiration
 
-## Technologies Used :
+## Technologies Used
 
 1. <a href="https://html.com/" target="_blank">HTML</a>    
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>
