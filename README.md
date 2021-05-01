@@ -15,7 +15,7 @@
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#apis-used">Apis Used</a> •
   <a href="#links">Links</a> •
-  <a href="#developers">Developers</a>
+  <a href="#team">Team</a>
 </p>
 
 <p>Through our project Voyage Capital we aim to provide investors with accurate data regarding stocks and stock market that will benefit them and help them make well informed decisions. The user is supposed to sign up through ID and password. The site will provide information related to stocks and also offer predictions regarding stocks i.e. what is the recent trend and fluctuations in stocks. It plans to do so by analysing stock market parameters such as market Price to Book value ratio. It also provides with a news feature wherein recent news related to stocks will be given. In today’s volatile market which offers myriads of seemingly lucrative “Money Minters”, choose Voyage Capital to help you in making informed and profitable investments.</p>
@@ -49,7 +49,7 @@
 5. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20tree" target="_blank">Decision Tree</a>  
 6. <a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
-## Developers  
+## Team  
 
 1. 19103071 Trisha Bassan
 2. 19103105 Ananya Gupta
