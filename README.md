@@ -1,5 +1,23 @@
-<img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" align="right" padding-top=50px
-     alt="Logo" width="200" height="178">
+<h1 align="center">
+  <br>
+  <a href=https://github.com/ishaannverma/VoyageCapital><img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" alt="Voyage Capital" width="200"></a>
+  <br>
+  Voyage Capital
+  <br>
+</h1>
+
+<h4 align="center">A Stock Market Prediction Web Application<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
 <h1>Voyage Capital</h1> 
 
 <p>Through our project Voyage Capital we aim to provide investors with accurate data regarding stocks and stock market that will benefit them and help them make well informed decisions. The user is supposed to sign up through ID and password. The site will provide information related to stocks and also offer predictions regarding stocks i.e. what is the recent trend and fluctuations in stocks. It plans to do so by analysing stock market parameters such as market Price to Book value ratio. It also provides with a news feature wherein recent news related to stocks will be given. In today’s volatile market which offers myriads of seemingly lucrative “Money Minters”, choose Voyage Capital to help you in making informed and profitable investments.</p>
