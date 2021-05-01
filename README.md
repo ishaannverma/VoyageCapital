@@ -25,7 +25,7 @@
 ## Key Features
 1. Stock Market Prediction
 
-##Technologies Used :
+## Technologies Used :
 
 1. HTML   
 2. CSS
@@ -38,7 +38,7 @@
 9. Keras
 10. Tweepy
 
-##Links  
+## Links  
 
 <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Description/Description.md" target="_blank">Project Write Up</a>  
 
@@ -52,7 +52,7 @@
 
 <a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
-##Developers  
+## Developers  
   
 1. 19103050 Ishaan Verma
 2. 19103071 Trisha Bassan
