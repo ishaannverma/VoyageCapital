@@ -12,9 +12,10 @@
     <link rel="stylesheet" href="{{ url_for('static',filename='login.css') }}">
   </head>
   <body>
+    
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">VOYAGE CAPITAL</a>
+    <a class="navbar-brand" href="{{ url_for('index') }}">VOYAGE CAPITAL</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -28,26 +29,23 @@
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             <li><a class="dropdown-item-link" href="{{ url_for( 'login' ) }}">ALREADY A USER</a></li>
-            <li><a class="dropdown-item-link" href="{{ url_for( 'register' ) }}">NEW USER</a></li>
-            <li><a class="dropdown-item-link" href="{{ url_for( 'index' ) }}">HOME PAGE</a></li>
+            <li><a class="dropdown-item-link" href="{{ url_for( 'register')}}">NEW USER</a></li>
+            <li><a class="dropdown-item-link" href="{{ url_for('index') }}">HOME PAGE</a></li>
           </ul>
         </li>
       </ul>
     </div>
+        
         <li class="nav-item">
-          <a class="nav-link" href="{{ url_for( 'aboutus' ) }}">ABOUT US</a>
+          <a class="nav-link" href="{{ url_for('currencyconvert') }}">CURRENCY CONVERTOR</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('aboutus') }}">ABOUT US</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{ url_for('contactus') }}">CONTACT US</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="result.html">PREDICT THE RESULTS</a>
-        </li>
       </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="" aria-label="Search">
-        <button class="btn btn-success" type="submit">Search</button>
-      </form>
     </div>
   </div>
 </nav>
