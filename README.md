@@ -42,7 +42,7 @@
 
 ## Links  
 
-1. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Description/Description.md" target="_blank">Project Write Up</a>  
+1.<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Description/Description.md" target="_blank">Project Write Up</a>  
 2.<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200" target="_blank">Level 0 DFD</a>  
 3.<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201" target="_blank">Level 1 DFD</a>  
 4.<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202  " target="_blank">Level 2 DFD</a>  
