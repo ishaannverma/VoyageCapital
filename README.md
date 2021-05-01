@@ -35,7 +35,7 @@
 6. SQL
 7. Keras
 
-## Apis Used
+## APIs Used
 1. Yahoo Finance 
 2. Alpha Vantage
 3. Tweepy
