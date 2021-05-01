@@ -37,7 +37,7 @@
 7. **User Query and Support:** The user can put in queries on the contact us page which will be received directly in the admin email.
 
 ## Our Inspiration
-<i>Trying to predict the stock market is an enticing prospect to programmers motivated not so much as a desire for material gain, but for the challenge. We see the daily up and downs of the market and imagine there must be patterns we, or our models, can learn in order to beat all those day traders with business degrees. That is what we wanted to try and ended up applying tons of machine algorithms for the same! (Also realising how one tweet can change the entire game of the stock, we couldn't resist using twitter sentimenatal ananlysis ;)) </i>
+<i>Trying to predict the stock market is an enticing prospect to programmers motivated not so much as a desire for material gain, but for the challenge. We see the daily ups and downs of the market and imagine there must be patterns we, or our models, can learn in order to beat all those day traders with business degrees. That is what we wanted to try and ended up applying tons of machine learning algorithms for the same! (Also realising how one tweet can change the entire game of the stock, we couldn't resist using twitter sentimenet analysis ;)) </i>
 
 ## Technologies Used
 
