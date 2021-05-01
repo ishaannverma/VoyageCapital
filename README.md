@@ -1,4 +1,4 @@
-<img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" align="right"
+<img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" align="right" padding-top=30px
      alt="Logo" width="200" height="178">
 <h1>Voyage Capital</h1> 
 
