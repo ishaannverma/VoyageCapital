@@ -13,7 +13,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#our-inspiration">Our Inspiration</a> •
   <a href="#technologies-used">Technologies Used</a> •
-  <a href="#apis used">Apis Used</a> •
+  <a href="#apis-used">Apis Used</a> •
   <a href="#links">Links</a> •
   <a href="#developers">Developers</a>
 </p>
