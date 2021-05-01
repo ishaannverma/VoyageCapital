@@ -12,3 +12,8 @@ font-family: 'Gentium Book Basic', serif;
 .container{
   font-size: 250%;
 }
+ul.dropdown-menu.dropdown-menu-dark.show li a {
+    text-decoration: none;
+    color: white;
+    margin: 0 8%;
+}
