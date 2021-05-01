@@ -17,7 +17,7 @@
 9. Keras
 10. Tweepy
 
-[Project Write-Up:] (https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md)    
+-[Project Write-Up:] (https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md)    
 
 **Level 0 DFD:**  
 https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200    
