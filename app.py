@@ -26,6 +26,7 @@ import numpy as np
 from statsmodels.tsa.arima_model import ARIMA
 from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
+# from forex_python.converter import CurrencyRates
 plt.style.use('ggplot')
 nltk.download('punkt')
 
@@ -89,38 +90,17 @@ def result():
 
 @app.route('/currency_convertor', methods=["GET", "POST"])
 def currency_convertor():
-    cur = mysql.connection.cursor()
-    cur.execute('''SHOW TABLES''')
-    tables = cur.fetchall()
-    for row in tables:
-        if row[0] == 'exchange_rates':
-            cur.execute('''DROP TABLE exchange_rates''')
-            break
-    cur.execute(
-        '''CREATE TABLE exchange_rates (currency varchar(4),rate float(24))''')
-
-    yesterday = date.today() - timedelta(days=1)
-    req = "http://data.fixer.io/api/" + \
-        str(yesterday)+"?access_key=c5f4769239284165f4af2cd1186a062d"
-    response = requests.get(req)
-    x = json.loads(response.text)
-    for point in x['rates']:
-        cur.execute("INSERT INTO exchange_rates VALUES(\'" +
-                    point+"\',"+str(x['rates'][point])+")")
-    mysql.connection.commit()
-
     answer = 0
     if request.method == 'POST':
+        base_currency = request.form.get('base_currency')
         target_currency = request.form.get('target_currency')
         amount = float(request.form.get('amount'))
-
-        cur = mysql.connection.cursor()
-        query = "SELECT rate FROM exchange_rates WHERE currency='{target}'".format(
-            target=target_currency)
-        cur.execute(query)
-        conversion_rate = float(cur.fetchone()[0])
-        print(cur.fetchone())
-        answer = amount*conversion_rate
+        key = 'WXR4A3OET4JMFIXR'
+        import requests
+        req = 'https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency='+base_currency+'&to_currency='+target_currency+'&apikey='+key
+        response = requests.get(req)
+        answer = float(response.json()['Realtime Currency Exchange Rate']['5. Exchange Rate'])*amount
+        
     else:
         answer = 0
     return render_template('currencyconvert.html', converted=answer)
