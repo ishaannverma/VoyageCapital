@@ -25,18 +25,20 @@
 ## Key Features
 1. Stock Market Prediction
 
+## Our Inspiration
+
 ## Technologies Used :
 
-1. HTML   
-2. CSS
-3. Bootstrap
-4. Python
-5. Flask
-6. Yahoo Finance
-7. Alpha Vantage
-8. SQL
-9. Keras
-10. Tweepy
+1. <a href="https://html.com/" target="_blank">HTML</a>    
+2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>
+3. <a href="https://getbootstrap.com/">Bootstrap</a>
+4. <a href="https://www.python.org/">Bootstrap</a>
+5. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
+6. SQL
+7. Keras
+
+
+#yahoo finance, alpha vantage, tweepy
 
 ## Links  
 
