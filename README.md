@@ -12,8 +12,8 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#our-inspiration">Our Inspiration</a> •
-  <a href="#download">Download</a> •
   <a href="#technologies-used">Technologies Used</a> •
+  <a href="#apis used">APIs Used</a> •
   <a href="#links">Links</a> •
   <a href="#developers">Developers</a>
 </p>
@@ -32,13 +32,15 @@
 1. <a href="https://html.com/" target="_blank">HTML</a>    
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>
 3. <a href="https://getbootstrap.com/">Bootstrap</a>
-4. <a href="https://www.python.org/">Bootstrap</a>
+4. <a href="https://www.python.org/">Python</a>
 5. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
 6. SQL
 7. Keras
 
-
-#yahoo finance, alpha vantage, tweepy
+## APIs Used
+1. Yahoo Finance 
+2. Alpha Vantage
+3. Tweepy
 
 ## Links  
 
