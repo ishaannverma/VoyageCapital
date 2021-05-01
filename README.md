@@ -20,27 +20,11 @@
 ##Links  
 
 <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Description.md  " target="_blank">Project Write Up</a>
-**Project Write-Up:**
-
-
-**Level 0 DFD:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200    
-
-  
-**Level 1 DFD:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201    
-
-  
-**Level 2 DFD:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202  
-
-  
-**Decision Tree:**  
-https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20tree   
-
-  
-**Data Dictionary:**  
-https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary
+<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%200" target="_blank">Level 0 DFD</a>
+<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%201" target="_blank">Level 1 DFD</a>
+<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/Final%20DFD%20Level%202  " target="_blank">Level 2 DFD</a>
+<a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20tree" target="_blank">Decision Tree</a>
+<a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
 **Developers**  
   
