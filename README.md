@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Stock Market Prediction Web Application<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A Stock Market Prediction Web Application<a href="https://github.com/ishaannverma/VoyageCapital" target="_blank"></a></h4>
 
 
 <p align="center">
