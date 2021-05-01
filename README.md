@@ -22,7 +22,7 @@
 <i>With Voyage Capital, the developers wish you a happy journey, or better - ‘voyage’, when starting with the stock market.</i>
 <br>
 
-![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(2).gif)
+![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(3).gif)
 
 ![screenshot](https://github.com/ishaannverma/VoyageCapital/blob/main/static/ezgif.com-gif-maker%20(1).gif)
 
