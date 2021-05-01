@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#our-inspiration">Our Inspiration</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#technologies-used">Technologies Used</a> •
+  <a href="#links">Links</a> •
+  <a href="#developers">Developers</a>
 </p>
 
 <h1>Voyage Capital</h1> 
@@ -25,7 +25,7 @@
 ## Key Features
 1. Stock Market Prediction
 
-**Built With :**
+##Technologies Used :
 
 1. HTML   
 2. CSS
@@ -38,7 +38,7 @@
 9. Keras
 10. Tweepy
 
-**Links**  
+##Links  
 
 <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Description/Description.md" target="_blank">Project Write Up</a>  
 
@@ -52,7 +52,7 @@
 
 <a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
-**Developers**  
+##Developers  
   
 1. 19103050 Ishaan Verma
 2. 19103071 Trisha Bassan
