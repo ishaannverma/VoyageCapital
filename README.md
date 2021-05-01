@@ -18,7 +18,9 @@
   <a href="#team">Team</a>
 </p>
 
-<p>Through our project Voyage Capital we aim to provide investors with accurate data regarding stocks and stock market that will benefit them and help them make well informed decisions. The user is supposed to sign up through ID and password. The site will provide information related to stocks and also offer predictions regarding stocks i.e. what is the recent trend and fluctuations in stocks. It plans to do so by analysing stock market parameters such as market Price to Book value ratio. It also provides with a news feature wherein recent news related to stocks will be given. In today’s volatile market which offers myriads of seemingly lucrative “Money Minters”, choose Voyage Capital to help you in making informed and profitable investments.</p>
+<p>Warren Buffet, the American investor and billionaire said, “If you don’t find a way to make money while you sleep, you will work until you die.” If you don’t find a way to increase the money that you have idling in your bank account, the truth is that no matter how much it is, a day will come when it would all be but exhausted. And the 20th century dweller understands this, as we have seen in the past few years. According to Securities and Exchange Board of India (SEBI) data, new dematerialized or demat account additions rose to an all-time high of 10.7 million between April 2020 and January. More and more people are trying their hand at the stock market. A big chunk of this crowd is composed of people under the age of 25. The developers of Voyage Capital, having firsthand experience (or the lack thereof in the start) know how difficult it might be to get started in the market.<br>
+The developers of VC have, to assist these young ‘voyagers’ in their long journey into the stock market, thought of developing a platform which would be a one stop destination for an easy access to all the lingo of the stock market. Forted with machine learning algorithms which predict future prices of the stocks of your choice. We provide you with the important technical indicators of all stocks that you want to see. That, along with the provision of a sentiment analysis of the latest tweets related to that stock provide the user with a holistic view of their potential investment. 
+With Voyage Capital, the developers wish you a happy journey, or better - ‘voyage’, when starting with the stock market.</p>
 
 ## Key Features
 1. **New User Login:** A new user can login into the website by entering id and password and his preferred stocks.
@@ -30,9 +32,7 @@
 7. **User Query and Support:** The user can put in queries on the contact us page which will be received directly in the admin email.
 
 ## Our Inspiration
-<p>Warren Buffet, the American investor and billionaire said, “If you don’t find a way to make money while you sleep, you will work until you die.” If you don’t find a way to increase the money that you have idling in your bank account, the truth is that no matter how much it is, a day will come when it would all be but exhausted. And the 20th century dweller understands this, as we have seen in the past few years. According to Securities and Exchange Board of India (SEBI) data, new dematerialized or demat account additions rose to an all-time high of 10.7 million between April 2020 and January. More and more people are trying their hand at the stock market. A big chunk of this crowd is composed of people under the age of 25. The developers of Voyage Capital, having firsthand experience (or the lack thereof in the start) know how difficult it might be to get started in the market.<br>
-The developers of VC have, to assist these young ‘voyagers’ in their long journey into the stock market, thought of developing a platform which would be a one stop destination for an easy access to all the lingo of the stock market. Forted with machine learning algorithms which predict future prices of the stocks of your choice. We provide you with the important technical indicators of all stocks that you want to see. That, along with the provision of a sentiment analysis of the latest tweets related to that stock provide the user with a holistic view of their potential investment. 
-With Voyage Capital, the developers wish you a happy journey, or better - ‘voyage’, when starting with the stock market.</p>
+
 
 ## Technologies Used
 
