@@ -17,7 +17,7 @@
 9. Keras
 10. Tweepy
 
-##Links  
+**Links**  
 
 <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Description/Description.md" target="_blank">Project Write Up</a>  
 
