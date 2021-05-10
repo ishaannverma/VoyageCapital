@@ -61,8 +61,11 @@
 3. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/1_Level_DFD.jpg" target="_blank">Level 1 DFD</a>  
 4. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/2_Level_DFD-2.jpg" target="_blank">Level 2 DFD- User Authentication</a>
 5. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/DFDs/2_Level_DFD-1.jpg" target="_blank">Level 2 DFD- Predictive Analysis</a>  
-6. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20Table" target="_blank">Decision Table</a>  
-7. <a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
+6. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20Table" target="_blank">Decision Table</a>
+7. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_1.jpg" target="_blank">Decision Sub Tree 1</a>
+8. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_2.jpg" target="_blank">Decision Sub Tree 2</a>
+9. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_3.jpg" target="_blank">Decision SubTree 3</a>
+10.<a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
 ## Team  
 
