@@ -64,7 +64,7 @@
 6. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Final%20Decision%20Table" target="_blank">Decision Table</a>
 7. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_1.jpg" target="_blank">Decision Sub Tree 1</a>
 8. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_2.jpg" target="_blank">Decision Sub Tree 2</a>
-9. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_3.jpg" target="_blank">Decision SubTree 3</a>   
+9. <a href="https://github.com/ishaannverma/VoyageCapital/blob/main/Schematics/Decision%20Tree/Decision_Tree_3.jpg" target="_blank">Decision SubTree 3</a>    
 10.<a href="https://github.com/ishaannverma/VoyageCapital/tree/main/Schematics/Data%20Dictionary" target="_blank">Data Dictionary</a>  
 
 ## Team  
